@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.db_example">
+    package="com.example.furniture_shop_db_editor">
    <application
-        android:label="db_example"
+        android:label="furniture_shop_db_editor"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

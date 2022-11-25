@@ -1,6 +1,6 @@
 {
-    "name": "db_example",
-    "short_name": "db_example",
+    "name": "furniture_shop_db_editor",
+    "short_name": "furniture_shop_db_editor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

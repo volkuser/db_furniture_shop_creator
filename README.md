@@ -1,4 +1,4 @@
-# db_example
+# furniture_shop_db_editor
 
 A new Flutter project.
 
