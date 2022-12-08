@@ -1,4 +1,4 @@
-import '../../entity/furniture_item_in_cheque_entity.dart';
+import '../../domain/entity/furniture_item_in_cheque_entity.dart';
 
 class FurnitureItemInCheque extends FurnitureItemInChequeEntity{
   late int id;

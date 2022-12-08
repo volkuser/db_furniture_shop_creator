@@ -1,4 +1,4 @@
-import '../../entity/role_entity.dart';
+import '../../domain/entity/role_entity.dart';
 
 class Role extends RoleEntity{
   late int id;

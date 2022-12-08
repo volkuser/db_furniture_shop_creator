@@ -1,4 +1,4 @@
-import '../../entity/cheque_entity.dart';
+import '../../domain/entity/cheque_entity.dart';
 
 class Cheque extends ChequeEntity{
   late int id;

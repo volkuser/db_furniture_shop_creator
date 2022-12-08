@@ -1,4 +1,4 @@
-import '../../entity/manufacter_entity.dart';
+import '../../domain/entity/manufacter_entity.dart';
 
 class Manufacter extends ManufacterEntity{
   late int id;

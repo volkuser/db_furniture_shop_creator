@@ -1,4 +1,4 @@
-import '../../entity/warehouse_entity.dart';
+import '../../domain/entity/warehouse_entity.dart';
 
 class Warehouse extends WarehouseEntity{
   late int id;

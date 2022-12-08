@@ -1,4 +1,4 @@
-import '../../entity/buyer_entity.dart';
+import '../../domain/entity/buyer_entity.dart';
 
 class Buyer extends BuyerEntity{
   late int id;

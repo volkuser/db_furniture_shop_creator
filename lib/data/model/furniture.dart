@@ -1,4 +1,4 @@
-import '../../entity/furniture_entity.dart';
+import '../../domain/entity/furniture_entity.dart';
 
 class Furniture extends FurnitureEntity{
   late int id;
